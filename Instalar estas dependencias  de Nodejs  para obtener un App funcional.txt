@@ -1,0 +1,18 @@
+Se debe instalar las siguientes dependencias de Nodejs para que lograr que la App sea funcional:
+
+
+    "bcryptjs"
+    "connect-flash"
+    "express
+    "express-handlebars"
+    "express-session"
+    "method-override"
+    "mongoose"
+    "morgan"
+    "passport
+    "passport-local"
+  
+    "dotenv": 
+    "handlebars": "^4.5.0",
+    "nodemon":
+    "npm-check-updates"
